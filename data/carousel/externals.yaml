@@ -1,0 +1,5 @@
+weight: 4
+title: "External resources"
+description: >
+  <p>Support external SDN Controllers or container based infrastructure, OpenStack, OpenContrail, Docker.</p>
+image: "img/carousel/template-homepage.png"

@@ -1,0 +1,5 @@
+weight: 3
+title: "WebUI & API"
+description: >
+  <p>Web, command line and REST interfaces. Unified query language for topology and flows.
+image: "img/carousel/template-homepage.png"

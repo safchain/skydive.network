@@ -1,0 +1,5 @@
+weight: 2
+title: "Flows & Metrics"
+description: >
+  <p>Distributed probe, L2-L4 classifier, GRE, VXLAN, GENEVE, MPLS/GRE, MPLS/UDP tunneling support. Ability to follow a flow along a path in the topology.</p>
+image: "img/carousel/template-homepage.png"

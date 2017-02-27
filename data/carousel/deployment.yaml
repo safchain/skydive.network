@@ -1,0 +1,5 @@
+weight: 5
+title: "Deployment"
+description: >
+  <p>Distributed, easy to deploy, only one static binary for all the components, analyzers, agents, and client.</p>
+image: "img/carousel/template-homepage.png"
