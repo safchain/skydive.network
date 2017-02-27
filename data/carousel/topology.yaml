@@ -1,5 +1,0 @@
-weight: 1
-title: "Topology"
-description: >
-  <p>Capture network topology, interface, bridge, namespace attributes and keep the history of all the modifications.</p>
-image: "img/carousel/template-homepage.png"

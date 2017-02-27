@@ -1,4 +1,0 @@
-weight: 2
-name: "Guide"
-icon: "fa fa-book"
-description: "Documention of Skydive, how to deploy it, how to use it, details about REST/WebSocket APIs"
